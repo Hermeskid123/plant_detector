@@ -1,1 +1,1 @@
-this is a the code for alex net trained on a plant dataset.
+This is python code for Alex Net trained on a plant dataset.
